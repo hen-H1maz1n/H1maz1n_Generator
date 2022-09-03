@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+html {
+    background-color: greenyellow;
+}
+.main {
+    margin: 60px;
+    background-color: white;
+    width: auto;
+    height: 440px;
+    border-radius: 10px;
+    padding: 30px;
+}
+h1maz1n {
+    font-size: 40px;
+}
+h3 {
+    margin: 5px;
+}
+#your_name {
+    width: 500px;
+    height: 80px;
+    border: 3px lightgrey solid;
+    background-color: white;
+    border-radius: 2px;
+    margin: 20px;
+}
+#explanation {
+    padding-bottom: 30px;
+}
+.button {
+    background-color: greenyellow;
+    border: 2px solid greenyellow;
+    border-radius: 3px;
+    color: white;
+    padding: 2px;
+}
+.button:hover {
+    background-color: rgb(191, 255, 95);
+    border: 2px solid rgb(191, 255, 95);
+    border-radius: 3px;
+    color: white;
+    padding: 2px;
+}
+#reload {
+    margin-bottom: 10px;
+}
+#twitter {
+    background-color: skyblue;
+    border: 2px solid skyblue;
+}
+#twitter:hover {
+    background-color: rgb(157, 211, 232);
+    border: 2px solid rgb(157, 211, 232);
+}
+#youtube {
+    background-color: red;
+    border: 2px solid red;
+}
+#youtube:hover {
+    background-color: rgb(255, 95, 95);
+    border: 2px solid rgb(255, 95, 95);
+}
+i {
+    padding-right: 3px;
+}
