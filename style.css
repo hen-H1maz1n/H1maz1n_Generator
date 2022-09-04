@@ -66,3 +66,24 @@ h3 {
 i {
     padding-right: 3px;
 }
+
+@media screen and (max-width:480px) {
+    .main {
+        margin: 30px;
+        width: 65%;
+    }
+    h1maz1n {
+        font-size: 15px;
+    }
+    #explanation {
+        font-size: 15px;
+    }
+    #your_name {
+        height: 50px;
+        transform: translateX(-13px);
+        width: 245px;
+    }
+    #your_name h1 {
+        transform: translateY(-12px);
+    }
+}
